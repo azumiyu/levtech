@@ -11,10 +11,5 @@
 |
 */
 
-<<<<<<< HEAD
-Route::get('/', 'PostController@index');
-
-=======
-
 Route::get('/','PostController@index');
->>>>>>> dev_basis02
+

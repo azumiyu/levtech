@@ -22,4 +22,8 @@
            {{ $posts->links() }}
        </div>
     </body>
+<<<<<<< HEAD
 </html>
+=======
+</html>
+>>>>>>> dev_basis02
